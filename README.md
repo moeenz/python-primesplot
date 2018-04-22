@@ -6,7 +6,10 @@ points
 ```
 where gap(p) gives you the difference between p and the next prime as it says in comments.
 <br>
-Read comments for additional info.
+Read comments for additional info. The result would something like:
+<p align="center">
+    <img src="result.png" width="600">
+</p>
 
 # Usage
 ```
